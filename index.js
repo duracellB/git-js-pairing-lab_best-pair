@@ -51,3 +51,8 @@ function triangleArea(a,b){
     let c = a*b
     return c/2
 }
+
+//9
+function betweenTwentyAndFourty(num){
+    return num > 20 && num < 40
+}
