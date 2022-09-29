@@ -35,3 +35,9 @@ function untilNum(num) {
 function multiply(a,b){
     return a*b
 }
+
+//6
+function add(a,b){
+    return a===b ? 6*a : a + b
+}
+console.log(add(7,7))
