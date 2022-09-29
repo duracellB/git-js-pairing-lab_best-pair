@@ -47,3 +47,7 @@ function isNegative(num){
 }
 
 //8
+function triangleArea(a,b){
+    let c = a*b
+    return c/2
+}
