@@ -30,3 +30,8 @@ function untilNum(num) {
         console.log(i)
     }
 }
+
+//5
+function multiply(a,b){
+    return a*b
+}
