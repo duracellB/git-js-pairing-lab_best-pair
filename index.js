@@ -56,3 +56,8 @@ function triangleArea(a,b){
 function betweenTwentyAndFourty(num){
     return num > 20 && num < 40
 }
+
+//10
+function largest(a,b,c){
+    return Math.max(a,b,c)
+}
