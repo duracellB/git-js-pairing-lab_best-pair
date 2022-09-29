@@ -61,3 +61,10 @@ function betweenTwentyAndFourty(num){
 function largest(a,b,c){
     return Math.max(a,b,c)
 }
+
+function printTime(){
+    let today = new Date()
+    return today.getHours() + ":" + today.getMinutes() + ":" + today.getSeconds();
+}
+
+console.log(printTime())
