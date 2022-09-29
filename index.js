@@ -40,4 +40,10 @@ function multiply(a,b){
 function add(a,b){
     return a===b ? 6*a : a + b
 }
-console.log(add(7,7))
+
+//7
+function isNegative(num){
+    return num<0
+}
+
+//8
